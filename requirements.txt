@@ -1,0 +1,4 @@
+requests
+pytube
+moviepy
+python-dotenv
